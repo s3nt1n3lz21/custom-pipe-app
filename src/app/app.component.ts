@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'custom-pipe-app';
+  file = { size: 2120109 };
 }

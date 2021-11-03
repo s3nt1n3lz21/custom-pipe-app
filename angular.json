@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "custom-pipe-app"
+    }
+  },
+  "defaultProject": "custom-pipe-app",
+  "cli": {
+    "analytics": false
+  }
 }
